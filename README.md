@@ -23,6 +23,8 @@ Digitronix Nepal: Altera Cyclone 10 LP FPGA Board Programming with Quartus Prime
 - Intel (2023). Nios® V Processor for Intel® FPGA. https://www.intel.com/content/www/us/en/products/details/fpga/intellectual-property/processors-peripherals/niosv.html<br>
 - Intel (2017). Cyclone 10 LP Nios II 'Hello World' Lab Manual. https://www.intel.com/content/dam/support/us/en/programmable/support-resources/fpga-wiki/asset03/c10lp-nios-ii-hello-world-lab-manual.pdf<br>
 - Intel Learning (2023). Intel® FPGA On-Demand eLearning. https://learning.intel.com/developer/pages/128/intelr-fpga-training<br>
+- Macnica (2025). First LED blinking with Altera® FPGA's Nios® V! Part 1: Hardware development (Quartus® Prime Standard Edition). https://www.macnica.co.jp/en/business/semiconductor/articles/altera/113961/<br>
+- Macnica (2025). First LED blinking with Altera® FPGA's Nios® V! Part 2: Software development (Quartus® Prime Standard Edition). https://www.macnica.co.jp/en/business/semiconductor/articles/altera/114097/<br>
 
 <br>
 <b>Video References:</b><br>
